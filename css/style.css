@@ -1,3 +1,5 @@
-img {
-    width: 500px;
-}
+@import "./experiencia.css";
+@import "./footer.css";
+@import "./formacao.css";
+@import "./global.css";
+@import "./introducao.css";
